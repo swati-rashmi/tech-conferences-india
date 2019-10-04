@@ -37,9 +37,11 @@ To add a conference to the list, please [contribute](#contributing)!
 | [Pragma IIITA](http://pragmaconf.tech/) | 19 -20 Jan | Indian Insitute of Information Technology, Allahabad | Pragma is premier student design and developers’ conference held at IIIT-Allahabad. Attracting some of the best student developers from across India, Pragma is a 3 day extravaganza featuring a hackathon, workshops and numerous talks. | No
 | [GopherCon](https://gopherconindia.com/) | 18-19 Jan | Hotel Park Regis, Goa | Go conference in India. Go is an open source project developed by a team at Google and many contributors for the open source community. | [Yes]( https://gopherconindia.com/scholarship/) |
 | [JSFoo Pune](https://jsfoo.in/2019-pune/) | 10 Jan | MCCIA Trade Tower, Pune | The second Pune edition of India’s premier JavaScript conference. | No |
+| [Rakuten Technology Conference](https://www.eventbrite.com/e/rakuten-technology-conference-tickets-75242397035?aff=ebdssbdestsearch) | 09 Nov | Rakuten India Enterprise,Bengaluru | Conference on latest technology trends and the future. | No |
 
 ## Past Years
 
+- [2020](year-pages/2020.md)
 - [2018](year-pages/2018.md)
 - [2017](year-pages/2017.md)
 - [2016](year-pages/2016.md)
